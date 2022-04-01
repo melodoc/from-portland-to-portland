@@ -1,0 +1,15 @@
+.header__link {
+    justify-self: flex-start;
+}
+
+.header__logo {
+    width: 176px;
+    height: 52px;
+}
+
+@media screen and (max-width: 767px) {
+    .header__logo {
+        max-width: 142px;
+        min-height: 42px;
+    }
+}
