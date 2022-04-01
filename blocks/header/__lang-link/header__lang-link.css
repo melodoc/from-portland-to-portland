@@ -1,0 +1,18 @@
+.header__lang-link {
+    vertical-align: super;
+    text-decoration: none;
+    color: var(--white);
+}
+
+.header__lang-link_link_underlined {
+    border-bottom: 2px solid var(--white);
+}
+
+.header__lang-link:hover {
+    opacity: var(--hover-opacity);
+    transition: all ease-in-out 0.16s;
+}
+
+.header__lang-link:visited {
+    color: var(--white);
+}
