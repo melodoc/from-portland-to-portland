@@ -1,7 +1,9 @@
 :root {
+    /* colors */
     --gray: #2A2C2F;
     --white: #ffffff;
     --light-gray: #AAAAAA;
+    /* opacity */
     --hover-opacity: 0.6;
     --cover-opacity: 0.3;
 }

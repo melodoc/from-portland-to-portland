@@ -1,5 +1,7 @@
 /* variables */
 @import url('../variables/variables.css');
+/* fonts */
+@import url('../fonts/fonts.css');
 /* container */
 @import url('../blocks/page/page.css');
 /* header */
