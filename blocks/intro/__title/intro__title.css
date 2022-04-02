@@ -1,8 +1,10 @@
 .intro__title {
     margin: 0;
+    /* font styles */
     font-weight: 900;
     font-size: 54px;
     line-height: 1.07;
+    /* text props */
     text-rendering: optimizeLegibility;
 }
 
