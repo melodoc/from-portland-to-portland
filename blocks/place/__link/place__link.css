@@ -1,0 +1,12 @@
+.place__link {
+    color: var(--white);
+}
+
+.place__link:hover {
+    opacity: var(--hover-opacity);
+    transition: all ease-in-out 0.16s;
+}
+
+.place__link:visited {
+    color: var(--white);
+}
