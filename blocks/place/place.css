@@ -13,13 +13,13 @@
     margin: 0;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1279px) {
     .place {
         column-gap: 32px;
     }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1023px) {
     .place {
         column-gap: 28px;
         /* offsets */
@@ -27,7 +27,7 @@
     }
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 767px) {
     .place {
         grid-template-columns: minmax(min-content, max-content);
         grid-template-rows: repeat(4, minmax(min-content, max-content));

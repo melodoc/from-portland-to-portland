@@ -11,7 +11,7 @@
     text-rendering: optimizeLegibility;
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 767px) {
     .lead__title {
         max-width: 288px;
         /* font styles */
