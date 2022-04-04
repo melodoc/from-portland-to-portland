@@ -1,3 +1,4 @@
+@import url('../vendor/normalize.css');
 /* variables */
 @import url('../variables/variables.css');
 /* fonts */
@@ -10,6 +11,7 @@
 @import url('../blocks/header/__list/header__list.css');
 @import url('../blocks/header/__item/header__item.css');
 @import url('../blocks/header/__lang-link/header__lang-link.css');
+@import url('../blocks/header/__lang-link_link_underlined/header__lang-link_link_underlined.css');
 /* lead */
 @import url('../blocks/lead/lead.css');
 @import url('../blocks/lead/__title/lead__title.css');
@@ -25,7 +27,6 @@
 @import url('../blocks/intro/__paragraph/intro__paragraph.css');
 @import url('../blocks/intro/__number/intro__number.css');
 /* photo-grid */
-@import url('../blocks/photo-grid/__display_hidden/photo-grid__display-hidden.css');
 @import url('../blocks/photo-grid/photo-grid.css');
 @import url('../blocks/photo-grid/__item/photo-grid__item.css');
 /* places */

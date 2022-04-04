@@ -4,10 +4,6 @@
     color: var(--white);
 }
 
-.header__lang-link_link_underlined {
-    border-bottom: 2px solid var(--white);
-}
-
 .header__lang-link:hover {
     opacity: var(--hover-opacity);
     transition: all ease-in-out 0.16s;
