@@ -1,20 +1,17 @@
-# Проект: Путешествие по России
+# Project: From Portland to Portland
 
-## Ссылка
+## Link
 
-[Путешествие по России](https://melodoc.github.io/russian-travel/)
+[Traveling From Portland to Portland](https://melodoc.github.io/russian-travel/)
 
+## Description
 
-## Описание
+Travel project From Portland to Portland.
 
-Проект о путешествии по России. [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
+## Technologies in the project
 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-## Технологии в проекте
+## The authors
 
- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-## Авторы
-
-Сделано в рамках прохождения курса **Веб-разработчик** Яндекс Практикум 
+Made by melodoc as part of the course **Web Developer** by <img src="images/logo_header.png" alt="Yandex.Practicum" height="15"/>
