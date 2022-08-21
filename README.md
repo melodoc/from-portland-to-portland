@@ -2,7 +2,7 @@
 
 ## Link
 
-[Traveling From Portland to Portland](https://melodoc.github.io/russian-travel/)
+[Traveling From Portland to Portland](https://github.com/melodoc/from-portland-to-portland)
 
 ## Description
 
