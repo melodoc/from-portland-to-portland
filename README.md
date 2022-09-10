@@ -14,7 +14,7 @@ Travel project From Portland to Portland with adaptive layout.
 
 ## The authors
 
-Made by melodoc as part of the course **Web Developer** by <img src="images/logo_header.png" alt="Yandex.Practicum" height="15"/>
+Made by melodoc as part of the course **Web Developer** by Yandex.Practicum
 
 # Feature plans
 
