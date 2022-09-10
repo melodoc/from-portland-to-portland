@@ -6,7 +6,7 @@
 
 ## Description
 
-Travel project From Portland to Portland.
+Travel project From Portland to Portland with adaptive layout.
 
 ## Technologies in the project
 
@@ -15,3 +15,7 @@ Travel project From Portland to Portland.
 ## The authors
 
 Made by melodoc as part of the course **Web Developer** by <img src="images/logo_header.png" alt="Yandex.Practicum" height="15"/>
+
+# Feature plans
+
+None
