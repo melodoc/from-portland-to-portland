@@ -230,7 +230,9 @@
         </li>
       </ul>
     </nav>
-    <p class="footer__copyright">© 2021 melodoc</p>
+    <p class="footer__copyright">© <span id="copyright">
+        <script>document.getElementById('copyright').appendChild(document.createTextNode(new Date().getFullYear()))</script>
+      </span> melodoc</p>
   </footer>
 </body>
 
